@@ -23,7 +23,7 @@ Feel free to reach out to me for any freelance commission work or collaboration 
 
 - **Email:** skeezy851@gmail.com
 - **GitHub:** [sforskeezy](https://github.com/sforskeezy)
-- **Discord:** [sforskeezy](https://www.discord.gg/users/1212160931807629357)
+- **Discord:** [sforskeezy](https://discordapp.com/users/1212160931807629357/)
 
 ---
 
