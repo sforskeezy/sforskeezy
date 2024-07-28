@@ -36,7 +36,6 @@ Thanks for visiting my profile! I look forward to connecting with you. !
 
 <a href="https://imgur.com/a/crossfiremc-discord-bot-r1v9Mss" target="_blank">
   <img src="https://i.imgur.com/XDuj8Gx.png" alt="CrossfireMC Discord Bot" style="width: 100px; height: 100px; object-fit: cover;" />
-</a> 
 <a href="https://imgur.com/a/crossfiremc-discord-bot-r1v9Mss" target="_blank">
-  <img src="[https://i.imgur.com/XDuj8Gx.png](https://i.imgur.com/iHGKn5u.png)" alt="CrossfireMC Discord Bot" style="width: 100px; height: 100px; object-fit: cover;" />
+  <img src="https://i.imgur.com/XDuj8Gx.png" alt="CrossfireMC Discord Bot" style="width: 100px; height: 100px; object-fit: cover;" />
 </a> 
