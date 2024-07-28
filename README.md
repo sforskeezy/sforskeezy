@@ -25,3 +25,6 @@ Feel free to reach out to me for any freelance commission work or collaboration 
 ---
 
 Thanks for visiting my profile! I look forward to connecting with you. !
+
+![Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
