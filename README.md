@@ -1,7 +1,5 @@
 # Hello, I'm Bryson Davis! 👋
 
-## About Me
-
 Hello! My name is Bryson Davis, also known as **sforskeezy**. I am a Python and Java developer who fell in love with programming at the age of 13. With 9 years of experience, I've developed a deep passion for coding and enjoy every moment of it.
 
 ## Skills
@@ -12,18 +10,18 @@ Hello! My name is Bryson Davis, also known as **sforskeezy**. I am a Python and 
 
 ### Other Skills
 
-- **Web Development:** HTML, CSS, JavaScript
+- **Web Development:** HTML, 
 - **Database Management:** SQL, MongoDB
-- **Version Control:** Git, GitHub
-- **Tools:** IntelliJ IDEA, PyCharm, VS Code
+- **Tools:** IntelliJ IDEA
 
 ## Contact Me
 
 Feel free to reach out to me for any freelance commission work or collaboration opportunities!
 
-- **Email:** brysondavis@example.com
+- **Email:** skeezy851@gmail.com
 - **GitHub:** [sforskeezy](https://github.com/sforskeezy)
+- **Discord:** @sforskeezy
 
 ---
 
-Thanks for visiting my profile! I look forward to connecting with you.
+Thanks for visiting my profile! I look forward to connecting with you. !
