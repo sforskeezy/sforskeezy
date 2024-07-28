@@ -35,5 +35,5 @@ Thanks for visiting my profile! I look forward to connecting with you. !
 ## Portfolio
 
 <a href="https://imgur.com/a/crossfiremc-discord-bot-r1v9Mss" target="_blank">
-  <img src="https://i.imgur.com/a/crossfiremc-discord-bot-r1v9Mss" alt="CrossfireMC Discord Bot" style="width: 100px; height: 100px; object-fit: cover;" />
+  <img src="https://i.imgur.com/XDuj8Gx.png" alt="CrossfireMC Discord Bot" style="width: 100px; height: 100px; object-fit: cover;" />
 </a>
