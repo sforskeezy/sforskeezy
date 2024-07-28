@@ -34,5 +34,6 @@ Thanks for visiting my profile! I look forward to connecting with you. !
 
 ## Portfolio
 
-[![Portfolio](https://via.placeholder.com/150)](https://your-portfolio-link.com)
+CrossfireMC Discord Bot
+[![Portfolio](https://cdn.discordapp.com/attachments/1264755349634809866/1267037680105947178/crossfire_pic.png?ex=66a7544b&is=66a602cb&hm=43e935b422b6cac4c76e5c14ad9420ae5c1443aee01bdd44982f9d3957072b28&)](https://your-portfolio-link.com)
 
