@@ -34,10 +34,12 @@ Thanks for visiting my profile! I look forward to connecting with you. !
 
 ## Portfolio
 
-<a href="https://imgur.com/a/crossfiremc-discord-bot-r1v9Mss" target="_blank">
-  <img src="https://i.imgur.com/XDuj8Gx.png" alt="CrossfireMC Discord Bot" style="width: 100px; height: 100px; object-fit: cover;" />
-</a> 
-&nbsp; | &nbsp;
-<a href="https://imgur.com/a/vlFw3lY" target="_blank">
-  <img src="https://i.imgur.com/iHGKn5u.png" alt="Second Image" style="width: 100px; height: 100px; object-fit: cover;" />
-</a>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://imgur.com/a/crossfiremc-discord-bot-r1v9Mss" target="_blank">
+    <img src="https://i.imgur.com/XDuj8Gx.png" alt="CrossfireMC Discord Bot" style="width: 100px; height: 100px; object-fit: cover;" />
+  </a>
+  <span style="font-size: 24px; font-weight: bold;">|</span>
+  <a href="https://imgur.com/a/vlFw3lY" target="_blank">
+    <img src="https://i.imgur.com/iHGKn5u.png" alt="Second Image" style="width: 100px; height: 100px; object-fit: cover;" />
+  </a>
+</div>
