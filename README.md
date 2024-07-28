@@ -40,6 +40,10 @@ Thanks for visiting my profile! I look forward to connecting with you. !
   </a>
   <span style="font-size: 24px; font-weight: bold;">|</span>
   <a href="https://imgur.com/a/vlFw3lY" target="_blank">
-    <img src="https://i.imgur.com/iHGKn5u.png" alt="Second Image" style="width: 100px; height: 100px; object-fit: cover;" />
+    <img src="https://i.imgur.com/iHGKn5u.png" alt="Serenity Discord Bot" style="width: 100px; height: 100px; object-fit: cover;" />
+  </a>
+  <div style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://imgur.com/a/7z5KDpM" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" alt="Minecraft Plugins" style="width: 100px; height: 100px; object-fit: cover;" />
   </a>
 </div>
