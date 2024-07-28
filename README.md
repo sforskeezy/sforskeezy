@@ -1,5 +1,8 @@
 # Hello, I'm Bryson Davis! 👋
 
+![Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+
 Hello! My name is Bryson Davis, also known as **sforskeezy**. I am a Python and Java developer who fell in love with programming at the age of 13. With 9 years of experience, I've developed a deep passion for coding and enjoy every moment of it.
 
 ## Skills
@@ -10,7 +13,7 @@ Hello! My name is Bryson Davis, also known as **sforskeezy**. I am a Python and 
 
 ### Other Skills
 
-- **Web Development:** HTML, 
+- **Web Development:** HTML, CSS, REACT, TAILWIND
 - **Database Management:** SQL, MongoDB
 - **Tools:** IntelliJ IDEA
 
@@ -26,5 +29,10 @@ Feel free to reach out to me for any freelance commission work or collaboration 
 
 Thanks for visiting my profile! I look forward to connecting with you. !
 
-![Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+---
+
+
+## Portfolio
+
+[![Portfolio](https://via.placeholder.com/150)](https://your-portfolio-link.com)
 
