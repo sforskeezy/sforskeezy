@@ -1,49 +1,85 @@
-# Hello, I'm Bryson Davis! 👋
+# Bryson Davis
 
-![Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=sforskeezy&style=flat-square&color=blueviolet)
+[![Website](https://img.shields.io/badge/Website-Compilex.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://compilex.io)
+[![Freelance](https://img.shields.io/badge/Status-Available%20for%20Work-success?style=flat-square&logo=upwork&logoColor=white)](mailto:skeezy851@gmail.com)
 
-Hello! My name is Bryson Davis, also known as **sforskeezy**. I am a Python and Java developer who fell in love with programming at the age of 13. With 9 years of experience, I've developed a deep passion for coding and enjoy every moment of it.
+</div>
 
-## Skills
+## 🚀 Digital Business Specialist | Web Developer | Entrepreneur
 
-### Languages
+### 👨‍💻 About Me
 
-<img src="https://camo.githubusercontent.com/0d5534dd6a655164d3127c270557a5e39450dec8c22f71a9830359b6bd8e749b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667" alt="Python" width="50"/> <img src="https://camo.githubusercontent.com/973913d161ca9ac03d1e941e3c0a9785dd928059a48274ed2b3ff564b5c564b2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" alt="Java" width="50"> <img src="https://camo.githubusercontent.com/7a982fd7ff2590bd9c4c0c804d36ec84f4b6a54ce4a062e939b1455f619bf975/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667" alt="React" width="50"/> <img src="https://camo.githubusercontent.com/3d0ddeed2c709ed1cbce62a9c624d0f719d5ed695567a2eef03d61a70c7ff336/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667" alt="JS" width="50"/>
+```javascript
+const bryson = {
+  companies: ["Compilex.io", "Compilex Studios", "Omnex1"],
+  focus: ["Web Development", "PR Management", "Creative Marketing", "Sales"],
+  startedCoding: 13, // years old
+  available: true,
+};
+```
 
-### Other Skills
+### 🛠️ Services
 
-- **Web Development:** HTML, CSS, REACT, TAILWIND
-- **Database Management:** SQL, MongoDB
-- **Tools:** IntelliJ IDEA
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> <b>Web Development</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> <b>PR Management</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="20"/> <b>Creative Marketing</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> <b>Sales Strategy</b></td>
+  </tr>
+</table>
 
-## Contact Me
+### 💻 Tech Stack
 
-Feel free to reach out to me for any freelance commission work or collaboration opportunities!
+<div align="center">
+  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-- **Email:** skeezy851@gmail.com
-- **GitHub:** [sforskeezy](https://github.com/sforskeezy)
-- **Discord:** [sforskeezy](https://discordapp.com/users/1212160931807629357/)
+</div>
+
+### 🏢 My Companies
+
+<table>
+  <tr>
+    <td><b>🌐 Compilex.io</b></td>
+    <td>Digital solutions provider</td>
+  </tr>
+  <tr>
+    <td><b>🎨 Compilex Studios</b></td>
+    <td>Creative development agency</td>
+  </tr>
+  <tr>
+    <td><b>🤖 Omnex1</b></td>
+    <td>AI automation services</td>
+  </tr>
+</table>
+
+### 📫 Connect With Me
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-skeezy851@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:skeezy851@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sforskeezy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sforskeezy)
+[![Discord](https://img.shields.io/badge/Discord-sforskeezy-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/1212160931807629357/)
+
+</div>
 
 ---
 
-Thanks for visiting my profile! I look forward to connecting with you. !
-
----
-
-
-## Portfolio
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <a href="https://imgur.com/a/crossfiremc-discord-bot-r1v9Mss" target="_blank">
-    <img src="https://i.imgur.com/XDuj8Gx.png" alt="CrossfireMC Discord Bot" style="width: 100px; height: 100px; object-fit: cover;" />
-  </a>
-  <span style="font-size: 24px; font-weight: bold;">|</span>
-  <a href="https://imgur.com/a/vlFw3lY" target="_blank">
-    <img src="https://i.imgur.com/iHGKn5u.png" alt="Serenity Discord Bot" style="width: 100px; height: 100px; object-fit: cover;" />
-  </a>
-  <div style="display: flex; align-items: center; gap: 20px;">
-  <a href="https://imgur.com/a/7z5KDpM" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" alt="Minecraft Plugins" style="width: 100px; height: 100px; object-fit: cover;" />
-  </a>
+<div align="center">
+  <i>Available for freelance projects. Let's build something amazing.</i>
 </div>
