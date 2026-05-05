@@ -1,124 +1,79 @@
-# SKYLAR DAVIS
+# Skylar Davis
 
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Digital+Strategist;PR+Manager;Entrepreneur&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-  
-  <br>
-  <a href="https://compilex.io">
-    <img src="https://img.shields.io/badge/COMPILEX.IO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sforskeezy">
-    <img src="https://img.shields.io/badge/AVAILABLE_FOR_HIRE-2ecc71?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-  <a href="https://discordapp.com/users/1212160931807629357/">
-    <img src="https://img.shields.io/badge/SFORSKEEZY-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  
+I build clean digital products, brand systems, and practical automation tools for businesses that need to look sharper, move faster, and convert better.
 
-
-
-## <img src="https://media.giphy.com/media/QLukcXvL1qUVCgG6qF/giphy.gif" width="35px"> About Me
-
-```javascript
-const skylar = {
-  profession: "Digital Business Strategist",
-  companies: {
-    compilexIO: "Digital solutions provider",
-    compilexStudios: "Creative development agency",
-    omnex1: "AI automation services"
-  }
-
-
-// Looking forward to collaborating with you!
-```
-
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35px"> Services
-
-<div align="center">
-  <table border="0" style="margin-left: auto; margin-right: auto;">
-    <tr>
-      <td width="50%" align="center">
-        <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-        <br><strong>Web Development</strong>
-        <br><sub>Modern, responsive solutions</sub>
-      </td>
-      <td width="50%" align="center">
-        <img height="60px" src="https://img.icons8.com/color/452/commercial-development.png"/>
-        <br><strong>PR Management</strong>
-        <br><sub>Strategic brand communications</sub>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img height="60px" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-marketing-digital-marketing-flatart-icons-flat-flatarticons-1.png"/>
-        <br><strong>Creative Marketing</strong>
-        <br><sub>Campaigns that convert</sub>
-      </td>
-      <td width="50%" align="center">
-        <img height="60px" src="https://img.icons8.com/external-phatplus-lineal-color-phatplus/64/external-sales-business-and-management-phatplus-lineal-color-phatplus.png"/>
-        <br><strong>Sales Strategy</strong>
-        <br><sub>Revenue-focused approaches</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px"> Tech Stack
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  
-</div>
-
-## <img src="https://media.giphy.com/media/3oKIPpFhwsMNrRIjTi/giphy.gif" width="35px"> My Companies
-
-<div align="center">
-  <a href="https://compilex.io">
-    <img src="https://img.shields.io/badge/🌐_COMPILEX.IO-000000?style=for-the-badge&labelColor=4285F4"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🎨_COMPILEX_STUDIOS-000000?style=for-the-badge&labelColor=2ecc71"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🤖_OMNEX1-000000?style=for-the-badge&labelColor=e74c3c"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sforskeezy&theme=dark&hide_border=true&ring=e74c3c&fire=e74c3c&currStreakLabel=e74c3c" width="500" />
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/KDKEMCn1K9IYXHZRpl/giphy.gif" width="35px"> Let's Connect
-
-<div align="center">
-  <a href="mailto:skeezy851@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/sforskeezy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://discordapp.com/users/1212160931807629357/">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
+I’m focused on web development, digital strategy, sales systems, and AI-assisted workflows — blending design, business, and technology into products that actually feel useful.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90"/>
-</div>
+## What I Do
+
+**Web Development**  
+Modern websites, landing pages, dashboards, and product interfaces built with performance and user experience in mind.
+
+**Digital Strategy**  
+Helping brands clarify their offer, improve their online presence, and turn attention into action.
+
+**Automation & AI Workflows**  
+Building systems that reduce manual work, organize information, and make everyday business operations easier.
+
+**Sales & Brand Positioning**  
+Creating messaging, funnels, and digital experiences designed to support growth.
+
+---
+
+## Current Focus
+
+- Building modern web applications with React, Next.js, and Tailwind CSS
+- Designing cleaner onboarding flows and user dashboards
+- Exploring AI-powered business tools and automation systems
+- Creating digital products that feel simple, polished, and useful
+
+---
+
+## Tech & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwind-css&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" />
+</p>
+
+---
+
+## Projects & Brands
+
+**Compilex.io**  
+Digital solutions, web development, and business-focused design.
+
+**Compilex Studios**  
+Creative development, branding, and product design.
+
+**Omnex1**  
+AI automation and workflow systems for modern businesses.
+
+---
+
+## GitHub Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sforskeezy&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+</p>
+
+---
+
+## Connect
+
+- Website: [compilex.io](https://compilex.io)
+- GitHub: [@sforskeezy](https://github.com/sforskeezy)
+- Email: [skeezy851@gmail.com](mailto:skeezy851@gmail.com)
+- Discord: [sforskeezy](https://discordapp.com/users/1212160931807629357/)
+
+---
+
+Building useful things. Making them look good. Keeping them simple.
